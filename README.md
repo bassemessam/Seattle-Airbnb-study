@@ -19,9 +19,9 @@ We will try to answer the following business questions.
   7. Evaluating the Model.
 - Jupyter Notebook Draft for exploring data features.
 - Data set downloaded from Kaggle conctains the following files.
-    - Listings, including full descriptions and average review score
-    - Reviews, including unique id for each reviewer and detailed comments
-    - Calendar, including listing id and the price and availability for that day
+    1. Listings, including full descriptions and average review score
+    2. Reviews, including unique id for each reviewer and detailed comments
+    3. Calendar, including listing id and the price and availability for that day
 
 
 ## Libraries
